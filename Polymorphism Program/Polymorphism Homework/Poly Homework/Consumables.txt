@@ -1,0 +1,16 @@
+3
+Health_Potion
+Consumable
+Potion
+An_item_used_to_restore_100_health.
+1
+Health_Potion
+Consumable
+Potion
+An_item_used_to_restore_100_health.
+1
+Mana_Potion
+Consumable
+Potion
+An_item_used_to_restore_100_mana.
+1

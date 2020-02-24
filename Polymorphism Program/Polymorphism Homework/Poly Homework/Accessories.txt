@@ -1,0 +1,17 @@
+2
+Crown_Jewel_of_the_Lost_Emperor
+Accessory
+Necklace
+An_adorned_necklace_made_from_stained_gold.
+5
+2
+6
+2
+Gladiator's_Ring
+Accessory
+Ring
+A_worn_ring_used_by_mighty_gladiators.
+2
+0
+1
+0
